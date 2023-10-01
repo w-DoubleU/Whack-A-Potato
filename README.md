@@ -6,3 +6,5 @@ To ensure the smooth operation of this bot, it's crucial to have identical displ
 Main Bot Script = Self Explanatory
 
 Mouse Position = Use this to obtain the exact x,y coordinates as well as RGB values.
+
+I need to add more....give me time please.
