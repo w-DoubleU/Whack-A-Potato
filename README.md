@@ -7,4 +7,12 @@ Main Bot Script = Self Explanatory
 
 Mouse Position = Use this to obtain the exact x,y coordinates as well as RGB values.
 
+I'm t2 - 27" Monitors - Display Resolution 2560x 1440
+
+Game in 1280 x 720 
+
+
+
+
+
 I need to add more....give me time please.
