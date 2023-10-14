@@ -5,6 +5,8 @@ To ensure the smooth operation of this bot, it's crucial to have identical displ
 
 Main Bot Script = Self Explanatory
 
+topright.png - Is the first icon which will be clicked, tstart.png is the next icon, then the code loops for 60 seconds searching specific b values for 7 
+
 Mouse Position = Use this to obtain the exact x,y coordinates as well as RGB values.
 
 I'm t2 - 27" Monitors - Display Resolution 2560x 1440
