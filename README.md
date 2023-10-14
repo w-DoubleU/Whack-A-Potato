@@ -3,9 +3,16 @@ I've harnessed the magic of advanced image recognition using Python to deliver a
 
 To ensure the smooth operation of this bot, it's crucial to have identical display settings to mine. This is essential because I'm referencing specific RGB values within particular pixels. When the bot detects the precise RGB values at the specified x and y coordinates, it triggers the clicking action.
 
-Main Bot Script = Self Explanatory
+Things you'll need for script to run:
+Main Bot Script
+t
 
-topright.png - Is the first icon which will be clicked, tstart.png is the next icon, then the code loops for 60 seconds searching specific b values for 7 
+
+What happens after you press Run & click in the game:
+
+Clicks-> topright.png - This is the first icon which will be clicked
+Clicks-> tstart.png - Clicks this icon next
+then the code loops for 60 seconds searching specific b values for 7 
 
 Mouse Position = Use this to obtain the exact x,y coordinates as well as RGB values.
 
