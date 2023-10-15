@@ -5,7 +5,7 @@ To ensure the smooth operation of this bot, it's crucial to have identical displ
 
 Things you'll need for script to run:
 Main Bot Script
-t
+
 
 
 What happens after you press Run & click in the game:
