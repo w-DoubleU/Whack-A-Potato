@@ -9,17 +9,16 @@ topright.png
 tstart.png
 end.png
 
-I
-
-
 
 What happens after you press Run & click in the game:
 
-Clicks-> topright.png - This is the first icon which will be clicked
-Clicks-> tstart.png - Clicks this icon next
-then the code loops for 60 seconds searching specific b values for 7 
+Clicks-> topright.png 
+Clicks-> tstart.png 
+then the code loops for 60 seconds searching specific b values for 7 within the designated x, y coordinates.  
 
-Mouse Position = Use this to obtain the exact x,y coordinates as well as RGB values.
+______________________________________________________
+
+Settings I use to get this to work: 
 
 I'm t2 - 27" Monitors - Display Resolution 2560x 1440
 
