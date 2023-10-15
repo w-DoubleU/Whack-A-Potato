@@ -5,6 +5,11 @@ To ensure the smooth operation of this bot, it's crucial to have identical displ
 
 Things you'll need for script to run:
 Main Bot Script
+topright.png
+tstart.png
+end.png
+
+I
 
 
 
