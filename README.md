@@ -1,4 +1,4 @@
-Python auto-whacker for the game Farmer against potatoes idle
+Python auto-whacker for the game 'Farmer Against Potatoes Idle'
 
 I've harnessed the magic of advanced image recognition using pyautogui to deliver an automated Whack-A-Potato.
 
