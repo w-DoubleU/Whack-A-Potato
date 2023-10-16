@@ -22,6 +22,11 @@ Clicks-> topright.png
 Clicks-> tstart.png 
 then the code loops for 60 seconds searching specific b values for 7 within the designated x, y coordinates.  
 
+Video : https://youtu.be/Y4CDGh74zJ8
+
+Next Steps to improve bot:
+Have it auto click to keep attach speed at 1.5x, have it auto recycle.
+
 ______________________________________________________
 
 
