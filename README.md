@@ -1,4 +1,5 @@
-# Farmer Against Potatoes Idle - Mini-game --> Whack-A-Potato
+Python auto-whacker for the game Farmer against potatoes idle
+
 I've harnessed the magic of advanced image recognition using pyautogui to deliver an automated Whack-A-Potato.
 
 To ensure the smooth operation of this bot, it's crucial to have identical display settings to mine. This is essential because I'm referencing specific RGB values within particular pixels. When the bot detects the precise RGB value at the specified x and y coordinates, it triggers the clicking action.
